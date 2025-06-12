@@ -158,7 +158,7 @@ git log
 git log --oneline
 ```
 
-- 하나의 commit 을 상세하게 보기(종료시 'q' 키보드 누르기)
+- 하나의 commit 을 상세하게 보기.(종료시 'q' 키보드 누르기)
 
 ```bash
 git show 커밋아이디
